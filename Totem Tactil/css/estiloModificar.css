@@ -1,0 +1,113 @@
+body
+{
+    background: #900;
+    display: flex;
+
+}    
+
+
+
+#logo
+{
+    margin-top: -5px;
+    margin-right: -20px;
+    margin-left: 5px;
+
+}
+
+#b1
+{
+    position: fixed;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    width: 350px;
+    height: 20px;
+    margin-left: 600px;
+    margin-top: 0px;
+    
+    
+}
+#cerrar_sesion
+{
+    
+    border: 0;
+    color: #fff;
+    font-style: bold;
+    font-size: 20px;
+    opacity: 0.9;
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 1000px;
+    
+}
+
+#cerrar_sesion:hover
+{
+    opacity: 1;
+}
+
+#cerrar_sesion:active
+{
+    transform: (0,95);
+}
+
+.brand
+{
+    margin-left: 200px;
+    
+}
+
+.navbar-wrapper
+{
+    border: 5px solid black;
+    width: 1700px;
+    height: 40px;
+    background: black;
+    
+}
+
+#menu-main
+{
+    margin-top: -65px;
+}
+
+#cont_agregar
+{
+    width: 800px;
+    height: 100px;
+    margin-top: 200px;
+    margin-left: -1200px;
+    color: #000;
+}
+
+#cont_agregar form
+{
+    margin-left: 230px;
+    color: #000;
+}
+#contenedor_imagenes
+{
+   
+    width: 800px;
+    height: auto;
+    margin-top: 400px;
+    margin-bottom: 10px;
+    position: absolute;
+    margin-left: 430px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+#contenedor_imagenes a
+{
+    color: #000;
+     font-size: 20px;
+}
